@@ -1,4 +1,5 @@
 const express = require('express');
+const test = 1;
 const app = express();
 // Hardcoded in-memory products array (in a real app, data would typically come from a database)
 const products = [
